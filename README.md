@@ -37,14 +37,13 @@ I build fullstack web apps, from React interfaces to Node.js and Laravel backend
 
 | Layer | Tools |
 |---|---|
-| **Frontend** | **`React`** `Vite` `Next.js` `TypeScript` `Tailwind CSS` |
-| **3D & Interactive** | **`Three.js`** `WebGL` `React Three Fiber` |
-| **Backend & API** | **`Node.js`** **`Laravel`** `Express` `PHP` `REST API` `JWT / OAuth` |
-| **Database** | **`PostgreSQL`** `MySQL` `Redis` `Prisma` |
+| **Frontend** | `React` `Vite` `Next.js` `TypeScript` `Tailwind CSS` |
+| **3D & Interactive** | `Three.js` `WebGL` `React Three Fiber` |
+| **Backend & API** | `Node.js` `Laravel` `Express` `PHP` `REST API` `JWT / OAuth` |
+| **Database** | `PostgreSQL` `MySQL` `Redis` `Prisma` |
 | **Testing** | `Vitest` `Playwright` `Pest / PHPUnit` |
 | **Tools, CI/CD & Deploy** | `Git / GitHub` `Docker` `GitHub Actions` `Linux` `Vercel / Railway` `AWS basics` |
 
-<sub>Bold = what I use most.</sub>
 
 ## <img src="./assets/h-case-studies.svg" alt="Case studies" width="100%">
 
