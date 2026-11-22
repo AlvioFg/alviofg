@@ -17,7 +17,7 @@ I build fullstack web apps, from React interfaces to Node.js and Laravel backend
     <img src="./assets/btn-email.svg" alt="Email me at you@email.com" height="56">
   </a>
   <br>
-  <sub>Reply within 24 hours · Working hours: UTC+X · Communication: English</sub>
+  <sub>Reply within 24 hours · Working hours: UTC+7 · Communication: English/Indonesia</sub>
 </p>
 
 ## <img src="./assets/h-what-i-do.svg" alt="What I do" width="100%">
