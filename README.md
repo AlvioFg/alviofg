@@ -13,7 +13,7 @@
 I build fullstack web apps, from React interfaces to Node.js and Laravel backends, so your team ships on time. Subcontract and white-label friendly.
 
 <p align="center">
-  <a href="mailto:you@email.com?subject=Project%20inquiry%20-%20type%2C%20timeline%2C%20team%20size">
+  <a href="mailto:alviofg231@gmail.com?subject=Project%20inquiry%20-%20type%2C%20timeline%2C%20team%20size">
     <img src="./assets/btn-email.svg" alt="Email me at you@email.com" height="56">
   </a>
   <br>
@@ -85,7 +85,7 @@ I build fullstack web apps, from React interfaces to Node.js and Laravel backend
 Have a project or an overflow of work in your team? Tell me the type of project, the timeline and your team size.
 
 <p align="center">
-  <a href="mailto:you@email.com?subject=Project%20inquiry%20-%20type%2C%20timeline%2C%20team%20size">
+  <a href="mailto:alviofg231@gmail.com?subject=Project%20inquiry%20-%20type%2C%20timeline%2C%20team%20size">
     <img src="./assets/btn-email.svg" alt="Email me at you@email.com" height="56">
   </a>
 </p>
