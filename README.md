@@ -46,7 +46,7 @@ I build fullstack web apps, from React interfaces to Node.js and Laravel backend
 
 
 ## <img src="./assets/h-case-studies.svg" alt="Case studies" width="100%">
-
+<!--
 ### 1. PROJECT_NAME_1: one-line summary
 
 `Personal project` ![CI status](https://github.com/YOUR_USERNAME/PROJECT_REPO_1/actions/workflows/ci.yml/badge.svg)
@@ -66,7 +66,8 @@ I build fullstack web apps, from React interfaces to Node.js and Laravel backend
 - **Result:** For example, a Three.js scene at 60 FPS with a bundle under N KB.
 
 [Code](https://github.com/YOUR_USERNAME/PROJECT_REPO_2) · [Live demo](YOUR_DEMO_URL) · [Write-up](YOUR_WRITEUP_URL)
-
+-->
+**WIP**
 ## <img src="./assets/h-why-trust.svg" alt="Why trust me" width="100%">
 
 - All my code is public, with a README, tests and CI.
