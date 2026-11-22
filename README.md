@@ -6,9 +6,9 @@
 
 </div>
 
-# Hi, I'm YOUR_NAME
+# Hi, I'm Alvio Fadhil Gustian
 
-**Fullstack web developer for software houses & remote teams.**
+**Fullstack web developer.**
 
 I build fullstack web apps, from React interfaces to Node.js and Laravel backends, so your team ships on time. Subcontract and white-label friendly.
 
