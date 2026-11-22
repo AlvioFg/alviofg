@@ -14,7 +14,7 @@ I build fullstack web apps, from React interfaces to Node.js and Laravel backend
 
 <p align="center">
   <a href="mailto:alviofg231@gmail.com?subject=Project%20inquiry%20-%20type%2C%20timeline%2C%20team%20size">
-    <img src="./assets/btn-email.svg" alt="Email me at you@email.com" height="56">
+    <img src="./assets/btn-email.svg" alt="Email me at alviofg231@gmail.com" height="56">
   </a>
   <br>
   <sub>Reply within 24 hours · Working hours: UTC+7 · Communication: English/Indonesia</sub>
